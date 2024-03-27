@@ -8,9 +8,9 @@ It's practically unplayable.
 The online part of this game uses [GameMaker Server](https://gamemakerserver.com/).
 This extension is at the end of its life (it will be shut down), and it was honestly horrible for making any actual gameplay.
 
-# Don't fork
-You do NOT have my permission to fork/clone this and make your own mod regardless of credit.
-I've had this happen twice and both of them ended up having shitty people that started going against me.
-"But it's open source!" you're still stealing my work if you use it for yourself.
+# Fork
 
-Hi Bruj.
+Please exercise your right under [Github ToS](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users) to fork this.
+Also make sure to excercise your right to, according to github (non-legal advice), modify, distribute, or make private this codebase, as it is forked from a version of the code which is under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.txt).
+
+(This is not legal advice :3)
