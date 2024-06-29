@@ -1,4 +1,4 @@
-# PT Freaky Worlds
+# PT Freaky Worlds PTO Edition 2024 Ultra Deluxe Featuring Dante from devil may cry series united community editioned Up!LINETWORKSCOUTOGETHERDICK
 This is the source code of a very old mod for Pizza Tower's 2020 Western build, adding online and various other features.
 We're mixing this shit with Frenzy Worlds to make one horrible monster.
 
